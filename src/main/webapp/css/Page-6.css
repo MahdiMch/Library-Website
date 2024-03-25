@@ -1,0 +1,148 @@
+ .u-section-1 {
+  background-image: url("pexels-juan-pablo-serrano-arenas-877971.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 985px;
+}
+
+.u-section-1 .u-icon-1 {
+  width: 64px;
+  height: 64px;
+  margin: 38px auto 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1.875rem;
+  font-weight: 800;
+  width: 813px;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  font-size: 1.875rem;
+  padding: 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 469px;
+  width: 510px;
+  background-image: none;
+  margin: 43px auto 0;
+}
+
+.u-section-1 .u-form-group-1 {
+  width: 100%;
+}
+
+.u-section-1 .u-label-1 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-form-group-2 {
+  width: 100%;
+}
+
+.u-section-1 .u-label-2 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-form-group-3 {
+  width: 100%;
+}
+
+.u-section-1 .u-label-3 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-form-group-4 {
+  width: 100%;
+}
+
+.u-section-1 .u-label-4 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-form-group-5 {
+  width: 100%;
+}
+
+.u-section-1 .u-btn-2 {
+  background-image: none;
+  border-style: none;
+  text-transform: uppercase;
+  width: 100%;
+  letter-spacing: 2px;
+  padding: 14px 30px 15px;
+}
+
+.u-section-1 .u-social-icons-1 {
+  white-space: nowrap;
+  height: 36px;
+  min-height: 16px;
+  width: 203px;
+  min-width: 124px;
+  margin: 43px auto;
+}
+
+.u-section-1 .u-icon-2 {
+  height: 100%;
+  padding: 20px;
+}
+
+.u-section-1 .u-icon-3 {
+  height: 100%;
+  padding: 20px;
+}
+
+.u-section-1 .u-icon-4 {
+  height: 100%;
+  padding: 20px;
+}
+
+.u-section-1 .u-icon-5 {
+  height: 100%;
+  padding: 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1090px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    width: 540px;
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-icon-1 {
+    margin-top: 76px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: -38px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    margin-top: -452px;
+  }
+}
